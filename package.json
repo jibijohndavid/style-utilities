@@ -1,0 +1,31 @@
+{
+  "name": "helper-classes",
+  "version": "0.0.1",
+  "description": "CSS Helper Class for any of your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jibijohndavid/helper-classes.git"
+  },
+  "keywords": [
+    "Helper",
+    "Class",
+    "Css",
+    "Scss",
+    "Margin",
+    "Padding",
+    "Font",
+    "Text",
+    "Color",
+    "Shadows"
+  ],
+  "author": "Jibi John David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jibijohndavid/helper-classes/issues"
+  },
+  "homepage": "https://github.com/jibijohndavid/helper-classes#readme"
+}
