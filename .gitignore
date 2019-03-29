@@ -1,2 +1,5 @@
 #Excluding Preprocessor Config Files
 *.config
+
+#General Files
+css/*.css
