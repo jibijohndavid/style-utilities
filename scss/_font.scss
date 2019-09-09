@@ -1,0 +1,35 @@
+/*------------------------------------*\
+  =FONT WEIGHTS
+\*------------------------------------*/
+
+@each $fontWeight in $fontWeights {
+    .fw-#{$fontWeight} {
+        font-weight: $fontWeight !important;
+    }
+}
+
+/*------------------------------------*\
+  =TEXT TRANSFORMATIONS
+\*------------------------------------*/
+
+.text-lowercase {
+    text-transform: lowercase !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.text-capitalize {
+    text-transform: capitalize !important;
+}
+
+/*------------------------------------*\
+ =TEXT TRUNCATION
+\*------------------------------------*/
+
+.text-truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
